@@ -1,0 +1,50 @@
+@media(max-width:1000px){
+ 
+ .profile-wrapper{
+  width: 100%;
+  margin: 0 auto;
+}
+ 
+ .slide-wrapper{
+  width: 100%;
+  margin-bottom: 30px;
+ }
+ 
+}
+
+@media(max-width:670px){
+ 
+ .header-right{
+  display: none;
+ }
+ 
+ .message-top h1{
+  font-size: 26px;
+ }
+ 
+ .message-top h2,.about-top h2,.blog-top h2,.heading h2{
+  font-size: 22px;
+ }
+ 
+ 
+ .slide-title{
+  font-size: 18px;
+ }
+ 
+ .change-btn-banker,.change-btn-sales{
+  font-size: 15px;
+ }
+ 
+ .satorulife,.twitter,.profile,.profile-page,.index-banker-wrapper,.index-sales-wrapper,.question,.answer{
+  font-size:15px;
+ }
+ 
+ .index-banker,.index-sales{
+  padding: 3px 5px;
+ }
+ 
+ .footer-logo p{
+  font-size: 14px;
+ }
+ 
+}
